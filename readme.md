@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="600" src="https://images.unsplash.com/photo-1630645038694-a894920fa701?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTEwfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adeola</h1>
-<h3 align="center">I'm a  Software Engineer.</h3>
+<h3 align="center">I'm a  Software Engineer.The development in tech wow me, hence, i am seeking to be part of the rapid change .</h3>
 
 
 ## 🙋‍♂️ About Me

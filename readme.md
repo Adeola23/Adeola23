@@ -21,6 +21,9 @@
     </a>
 </p>
 
+## 📫 Projects
+-  Random quote gen: https://adeola23.github.io/Quote-generator/
+
 ## 📊 My Github Stats
 
   <br/>

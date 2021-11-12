@@ -23,6 +23,7 @@
 
 ## 📫 Projects
 -  Random quote gen: https://adeola23.github.io/Quote-generator/
+-  Monster Rolodex: https://adeola23.github.io/monsters-rolodex/ 
 
 ## 📊 My Github Stats
 

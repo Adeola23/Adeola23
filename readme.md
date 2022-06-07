@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
+
+Hey, I'm Adeola
 
 I'm a self-taught software engineer, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 

@@ -1,5 +1,6 @@
 
-Hey, I'm Adeola
+<h1 align="center">Hi 👋, I'm Adeola</h1>
+
 
 I'm a self-taught software engineer, who's currently pursuing full-stack web development to create stunning user experiences on the front-end, and scalable and secure infrastructure on the backend.
 
